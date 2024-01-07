@@ -1,0 +1,14 @@
+C:\Users\davudva\Desktop\Lesson tasks\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.exe
+C:\Users\davudva\Desktop\Lesson tasks\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.deps.json
+C:\Users\davudva\Desktop\Lesson tasks\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.runtimeconfig.json
+C:\Users\davudva\Desktop\Lesson tasks\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.runtimeconfig.dev.json
+C:\Users\davudva\Desktop\Lesson tasks\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.dll
+C:\Users\davudva\Desktop\Lesson tasks\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.pdb
+C:\Users\davudva\Desktop\Lesson tasks\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.csproj.AssemblyReference.cache
+C:\Users\davudva\Desktop\Lesson tasks\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davudva\Desktop\Lesson tasks\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.AssemblyInfoInputs.cache
+C:\Users\davudva\Desktop\Lesson tasks\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.AssemblyInfo.cs
+C:\Users\davudva\Desktop\Lesson tasks\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.csproj.CoreCompileInputs.cache
+C:\Users\davudva\Desktop\Lesson tasks\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.dll
+C:\Users\davudva\Desktop\Lesson tasks\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.pdb
+C:\Users\davudva\Desktop\Lesson tasks\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.genruntimeconfig.cache
